@@ -254,6 +254,7 @@ for sec in sections:
     btn.pack(pady=5)
 
 # Quiz Widgets
+# user improvements work now
 section_label = tk.Label(root, text="", font=("Arial", 14))
 section_label.pack(pady=10)
 
