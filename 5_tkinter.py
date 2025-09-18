@@ -141,7 +141,7 @@ quiz_data = [
      "hint": "Old-school hip-hop group.",
      "info": "Run DMC popularized wearing large gold chains as a fashion statement."}
 ]
-
+#added all Q for all sections
 # --- Functions ---
 def start_quiz():
     global question_order
