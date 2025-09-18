@@ -13,6 +13,7 @@ section_scores = {"Fashion History": 0, "Music Genres": 0, "Fashion & Music": 0}
 question_order = []
 
 # --- Quiz Data ---
+#added questions works
 quiz_data = [
     # Fashion History
     {"section": "Fashion History", "question": "Which decade popularized the miniskirt?",
@@ -280,4 +281,7 @@ quit_button.pack(pady=5)
 for btn in option_buttons:
     btn.config(state=tk.DISABLED)
 
-#fdlkjghfdlgkdjfh
+
+root.mainloop()
+
+
