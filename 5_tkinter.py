@@ -186,7 +186,7 @@ def check_answer(selected):
 
     current_question += 1
     root.after(2000, show_question)
-
+#tested ad work swap
 def swap_section():
     global selected_section
     if selected_section == "Fashion History":
