@@ -227,6 +227,7 @@ root.title("Fashion & Music Quiz")
 root.geometry("700x700")
 
 # Welcome Frame
+#welcome frame works
 welcome_frame = tk.Frame(root)
 welcome_frame.pack(pady=50)
 
