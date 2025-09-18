@@ -153,7 +153,7 @@ def start_quiz():
     random.shuffle(question_order)
     show_question()
 
-#hjhjhggj
+#show questions work 
 def show_question():
     global current_question, lives
     if current_question < len(question_order) and lives > 0:
