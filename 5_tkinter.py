@@ -243,6 +243,7 @@ name_button = tk.Button(welcome_frame, text="Continue", font=("Arial", 14), comm
 name_button.pack(pady=10)
 
 # Section Selection Frame
+#Sectionsectlectionframe 
 section_selection_frame = tk.Frame(root)
 section_label_title = tk.Label(section_selection_frame, text="Choose a section to start with:", font=("Arial", 14))
 section_label_title.pack(pady=10)
