@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
-
+#tkinter finally works
 # --- Global Variables ---
 current_question = 0
 score = 0
