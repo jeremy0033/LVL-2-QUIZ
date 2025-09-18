@@ -280,7 +280,4 @@ quit_button.pack(pady=5)
 for btn in option_buttons:
     btn.config(state=tk.DISABLED)
 
-
-root.mainloop()
-
-###GHGHGF
+#fdlkjghfdlgkdjfh
